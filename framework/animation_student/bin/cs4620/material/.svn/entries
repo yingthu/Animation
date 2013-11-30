@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://forge.cornell.edu/svn/repos/cs4620fall13/fall13/animation/animation_student/src/cs4620/material
+https://forge.cornell.edu/svn/repos/cs4620fall13
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d3f12a5b-a5e4-0410-a598-d8f9018b879a
+
+DiffuseMaterial.java
+file
+
+
+
+add
+
+FireMaterial.java
+file
+
+
+
+add
+
+FlatColorMaterial.java
+file
+
+
+
+add
+
+TexCoordMaterial.java
+file
+
+
+
+add
+
+NormalMaterial.java
+file
+
+
+
+add
+
+FlowerMaterial.java
+file
+
+
+
+add
+
+GreenMaterial.java
+file
+
+
+
+add
+
+TextureMaterial.java
+file
+
+
+
+add
+
+MarsMaterial.java
+file
+
+
+
+add
+
+EarthMaterial.java
+file
+
+
+
+add
+
+CometMaterial.java
+file
+
+
+
+add
+
+MoonMaterial.java
+file
+
+
+
+add
+
+PhongMaterial.java
+file
+
+
+
+add
+
+Material.java
+file
+
+
+
+add
+
+ToonMaterial.java
+file
+
+
+
+add
+

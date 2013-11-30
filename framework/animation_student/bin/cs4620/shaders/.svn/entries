@@ -1,0 +1,322 @@
+10
+
+dir
+0
+https://forge.cornell.edu/svn/repos/cs4620fall13/fall13/animation/animation_student/src/cs4620/shaders
+https://forge.cornell.edu/svn/repos/cs4620fall13
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d3f12a5b-a5e4-0410-a598-d8f9018b879a
+
+twisting.fs
+file
+
+
+
+add
+
+texCoordAsPosn.fs
+file
+
+
+
+add
+
+fireShader.fs
+file
+
+
+
+add
+
+flower.vs
+file
+
+
+
+add
+
+picking.fs
+file
+
+
+
+add
+
+flatcolor.fs
+file
+
+
+
+add
+
+twisting.vs
+file
+
+
+
+add
+
+texCoordAsPosn.vs
+file
+
+
+
+add
+
+fireShader.vs
+file
+
+
+
+add
+
+toonQuantize.fs
+file
+
+
+
+add
+
+phongFS.fs
+file
+
+
+
+add
+
+picking.vs
+file
+
+
+
+add
+
+flatcolor.vs
+file
+
+
+
+add
+
+lambertianFS.fs
+file
+
+
+
+add
+
+phong.fs
+file
+
+
+
+add
+
+flatcolor2d.fs
+file
+
+
+
+add
+
+normalShader.fs
+file
+
+
+
+add
+
+interpolatedcolor2d.fs
+file
+
+
+
+add
+
+toonQuantize.vs
+file
+
+
+
+add
+
+phongVS.fs
+file
+
+
+
+add
+
+phongFS.vs
+file
+
+
+
+add
+
+demo.fs
+file
+
+
+
+add
+
+toonDisplace.fs
+file
+
+
+
+add
+
+diffuse.fs
+file
+
+
+
+add
+
+lambertianVS.fs
+file
+
+
+
+add
+
+lambertianFS.vs
+file
+
+
+
+add
+
+greenShader.fs
+file
+
+
+
+add
+
+positionAsColor.fs
+file
+
+
+
+add
+
+textureShader.fs
+file
+
+
+
+add
+
+phong.vs
+file
+
+
+
+add
+
+flatcolor2d.vs
+file
+
+
+
+add
+
+flower.fs
+file
+
+
+
+add
+
+normalShader.vs
+file
+
+
+
+add
+
+interpolatedcolor2d.vs
+file
+
+
+
+add
+
+phongVS.vs
+file
+
+
+
+add
+
+demo.vs
+file
+
+
+
+add
+
+toonDisplace.vs
+file
+
+
+
+add
+
+diffuse.vs
+file
+
+
+
+add
+
+lambertianVS.vs
+file
+
+
+
+add
+
+greenShader.vs
+file
+
+
+
+add
+
+positionAsColor.vs
+file
+
+
+
+add
+
+textureShader.vs
+file
+
+
+
+add
+

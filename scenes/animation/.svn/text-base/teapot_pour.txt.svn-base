@@ -1,0 +1,757 @@
+frames: {0: 0, 170: 170, 100: 100, 190: 190, 200: 200, 140: 140, 80: 80, 82: 82, 230: 230,
+  160: 160, 180: 180, 120: 120}
+root:
+  translation: [0.0, 0.0, 0.0]
+  frames:
+    0:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+    170:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+    100:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+    190:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+    200:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+    140:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+    80:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+    82:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+    230:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+    160:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+    180:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+    120:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+  rotation: [0.0, 0.0, 0.0]
+  name: Root
+  children:
+  - translation: [5.0, 5.0, 5.0, 1.0]
+    rotation: [0.0, 0.0, 0.0]
+    scaling: [1.0, 1.0, 1.0]
+    frames:
+      0:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+      170:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+      100:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+      190:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+      200:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+      140:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+      80:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+      82:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+      230:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+      160:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+      180:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+      120:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+    name: Light
+    intensity: [1.0, 1.0, 1.0, 1.0]
+    children: []
+    type: LightNodeKeyframeable
+    ambient: [1.0, 1.0, 1.0, 1.0]
+  - translation: [0.0, 0.0, 0.0]
+    frames:
+      0:
+        translation: [0.0, 0.0, 0.0]
+        rotation: [0.0, 0.0, 0.0]
+        name: Teapot
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Teapot}
+        scaling: [1.0, 1.0, 1.0]
+      170:
+        translation: [0.0, 0.0, 0.0]
+        rotation: [0.0, 0.0, -42.500008]
+        name: Teapot
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Teapot}
+        scaling: [1.0, 1.0, 1.0]
+      100:
+        translation: [0.0, 0.0, 0.0]
+        rotation: [0.0, 0.0, -25.0]
+        name: Teapot
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Teapot}
+        scaling: [1.0, 1.0, 1.0]
+      190:
+        translation: [0.0, 0.0, 0.0]
+        rotation: [0.0, 0.0, -45.0]
+        name: Teapot
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Teapot}
+        scaling: [1.0, 1.0, 1.0]
+      200:
+        translation: [0.0, 0.0, 0.0]
+        rotation: [0.0, 0.0, -45.0]
+        name: Teapot
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Teapot}
+        scaling: [1.0, 1.0, 1.0]
+      140:
+        translation: [0.0, 0.0, 0.0]
+        rotation: [0.0, 0.0, -35.0]
+        name: Teapot
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Teapot}
+        scaling: [1.0, 1.0, 1.0]
+      80:
+        translation: [0.0, 0.0, 0.0]
+        rotation: [0.0, 0.0, -20.0]
+        name: Teapot
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Teapot}
+        scaling: [1.0, 1.0, 1.0]
+      82:
+        translation: [0.0, 0.0, 0.0]
+        rotation: [0.0, 0.0, -20.5]
+        name: Teapot
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Teapot}
+        scaling: [1.0, 1.0, 1.0]
+      230:
+        translation: [0.0, 0.0, 0.0]
+        rotation: [0.0, 0.0, -45.0]
+        name: Teapot
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Teapot}
+        scaling: [1.0, 1.0, 1.0]
+      160:
+        translation: [0.0, 0.0, 0.0]
+        rotation: [0.0, 0.0, -40.0]
+        name: Teapot
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Teapot}
+        scaling: [1.0, 1.0, 1.0]
+      180:
+        translation: [0.0, 0.0, 0.0]
+        rotation: [0.0, 0.0, -45.0]
+        name: Teapot
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Teapot}
+        scaling: [1.0, 1.0, 1.0]
+      120:
+        translation: [0.0, 0.0, 0.0]
+        rotation: [0.0, 0.0, -30.0]
+        name: Teapot
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Teapot}
+        scaling: [1.0, 1.0, 1.0]
+    rotation: [0.0, 0.0, 0.0]
+    name: Teapot
+    children:
+    - translation: [1.66, 0.5, 0.0]
+      frames:
+        0:
+          translation: [1.66, 0.5, 0.0]
+          rotation: [0.0, 0.0, 45.0]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+        170:
+          translation: [1.66, 0.5, 0.0]
+          rotation: [0.0, 0.0, 42.500008]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+        100:
+          translation: [1.66, 0.5, 0.0]
+          rotation: [0.0, 0.0, 25.0]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+        190:
+          translation: [1.66, 0.5, 0.0]
+          rotation: [0.0, 0.0, 45.0]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+        200:
+          translation: [1.66, 0.5, 0.0]
+          rotation: [0.0, 0.0, 45.0]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+        140:
+          translation: [1.66, 0.5, 0.0]
+          rotation: [0.0, 0.0, 35.0]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+        80:
+          translation: [1.66, 0.5, 0.0]
+          rotation: [0.0, 0.0, 20.0]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+        82:
+          translation: [1.66, 0.5, 0.0]
+          rotation: [0.0, 0.0, 20.0]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+        230:
+          translation: [1.66, 0.5, 0.0]
+          rotation: [0.0, 0.0, 45.0]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+        160:
+          translation: [1.66, 0.5, 0.0]
+          rotation: [0.0, 0.0, 40.0]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+        180:
+          translation: [1.66, 0.5, 0.0]
+          rotation: [0.0, 0.0, 45.0]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+        120:
+          translation: [1.66, 0.5, 0.0]
+          rotation: [0.0, 0.0, 30.0]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+      rotation: [0.0, 0.0, 45.0]
+      name: Group
+      children:
+      - translation: [0.0, 0.0, 0.0]
+        frames:
+          0:
+            translation: [0.0, 0.0, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Group
+            children: []
+            type: SceneNode
+            scaling: [0.01, 0.01, 0.01]
+          170:
+            translation: [0.0, 0.0, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Group
+            children: []
+            type: SceneNode
+            scaling: [1.0, 1.8, 1.0]
+          100:
+            translation: [0.0, 0.0, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Group
+            children: []
+            type: SceneNode
+            scaling: [1.0, 0.2, 1.0]
+          190:
+            translation: [0.0, 0.0, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Group
+            children: []
+            type: SceneNode
+            scaling: [1.0, 1.8, 1.0]
+          200:
+            translation: [0.0, 0.0, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Group
+            children: []
+            type: SceneNode
+            scaling: [1.0, 1.8, 1.0]
+          140:
+            translation: [0.0, 0.0, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Group
+            children: []
+            type: SceneNode
+            scaling: [1.0, 1.0, 1.0]
+          80:
+            translation: [0.0, 0.0, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Group
+            children: []
+            type: SceneNode
+            scaling: [0.01, 0.01, 0.01]
+          82:
+            translation: [0.0, 0.0, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Group
+            children: []
+            type: SceneNode
+            scaling: [1.0, 0.01, 1.0]
+          230:
+            translation: [0.0, 0.0, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Group
+            children: []
+            type: SceneNode
+            scaling: [1.0, 1.8, 1.0]
+          160:
+            translation: [0.0, 0.0, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Group
+            children: []
+            type: SceneNode
+            scaling: [1.0, 1.8, 1.0]
+          180:
+            translation: [0.0, 0.0, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Group
+            children: []
+            type: SceneNode
+            scaling: [1.0, 1.8, 1.0]
+          120:
+            translation: [0.0, 0.0, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Group
+            children: []
+            type: SceneNode
+            scaling: [1.0, 0.5, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        name: Group
+        children:
+        - translation: [0.0, -1.0, 0.0]
+          frames:
+            0:
+              translation: [0.0, -1.0, 0.0]
+              rotation: [0.0, 0.0, 0.0]
+              name: Cylinder
+              children: []
+              type: MeshNode
+              material:
+                specular: [1.0, 1.0, 1.0, 1.0]
+                diffuse: [0.0, 0.0, 1.0, 1.0]
+                shininess: 40.0
+                type: PhongMaterial
+                ambient: [0.05, 0.05, 0.05, 1.0]
+              mesh: {type: Cylinder}
+              scaling: [0.07, 1.0, 0.07]
+            170:
+              translation: [0.0, -1.05, 0.0]
+              rotation: [0.0, 0.0, 0.0]
+              name: Cylinder
+              children: []
+              type: MeshNode
+              material:
+                specular: [1.0, 1.0, 1.0, 1.0]
+                diffuse: [0.0, 0.0, 1.0, 1.0]
+                shininess: 40.0
+                type: PhongMaterial
+                ambient: [0.05, 0.05, 0.05, 1.0]
+              mesh: {type: Cylinder}
+              scaling: [0.07, 1.0, 0.07]
+            100:
+              translation: [0.0, -1.0, 0.0]
+              rotation: [0.0, 0.0, 0.0]
+              name: Cylinder
+              children: []
+              type: MeshNode
+              material:
+                specular: [1.0, 1.0, 1.0, 1.0]
+                diffuse: [0.0, 0.0, 1.0, 1.0]
+                shininess: 40.0
+                type: PhongMaterial
+                ambient: [0.05, 0.05, 0.05, 1.0]
+              mesh: {type: Cylinder}
+              scaling: [0.07, 1.0, 0.07]
+            190:
+              translation: [0.0, -1.8, 0.0]
+              rotation: [0.0, 0.0, 0.0]
+              name: Cylinder
+              children: []
+              type: MeshNode
+              material:
+                specular: [1.0, 1.0, 1.0, 1.0]
+                diffuse: [0.0, 0.0, 1.0, 1.0]
+                shininess: 40.0
+                type: PhongMaterial
+                ambient: [0.05, 0.05, 0.05, 1.0]
+              mesh: {type: Cylinder}
+              scaling: [0.07, 1.0, 0.07]
+            200:
+              translation: [0.0, -3.0, 0.0]
+              rotation: [0.0, 0.0, 0.0]
+              name: Cylinder
+              children: []
+              type: MeshNode
+              material:
+                specular: [1.0, 1.0, 1.0, 1.0]
+                diffuse: [0.0, 0.0, 1.0, 1.0]
+                shininess: 40.0
+                type: PhongMaterial
+                ambient: [0.05, 0.05, 0.05, 1.0]
+              mesh: {type: Cylinder}
+              scaling: [0.07, 1.0, 0.07]
+            140:
+              translation: [0.0, -1.0, 0.0]
+              rotation: [0.0, 0.0, 0.0]
+              name: Cylinder
+              children: []
+              type: MeshNode
+              material:
+                specular: [1.0, 1.0, 1.0, 1.0]
+                diffuse: [0.0, 0.0, 1.0, 1.0]
+                shininess: 40.0
+                type: PhongMaterial
+                ambient: [0.05, 0.05, 0.05, 1.0]
+              mesh: {type: Cylinder}
+              scaling: [0.07, 1.0, 0.07]
+            80:
+              translation: [0.0, -1.0, 0.0]
+              rotation: [0.0, 0.0, 0.0]
+              name: Cylinder
+              children: []
+              type: MeshNode
+              material:
+                specular: [1.0, 1.0, 1.0, 1.0]
+                diffuse: [0.0, 0.0, 1.0, 1.0]
+                shininess: 40.0
+                type: PhongMaterial
+                ambient: [0.05, 0.05, 0.05, 1.0]
+              mesh: {type: Cylinder}
+              scaling: [0.07, 1.0, 0.07]
+            82:
+              translation: [0.0, -1.0, 0.0]
+              rotation: [0.0, 0.0, 0.0]
+              name: Cylinder
+              children: []
+              type: MeshNode
+              material:
+                specular: [1.0, 1.0, 1.0, 1.0]
+                diffuse: [0.0, 0.0, 1.0, 1.0]
+                shininess: 40.0
+                type: PhongMaterial
+                ambient: [0.05, 0.05, 0.05, 1.0]
+              mesh: {type: Cylinder}
+              scaling: [0.07, 1.0, 0.07]
+            230:
+              translation: [0.0, -6.0, 0.0]
+              rotation: [0.0, 0.0, 0.0]
+              name: Cylinder
+              children: []
+              type: MeshNode
+              material:
+                specular: [1.0, 1.0, 1.0, 1.0]
+                diffuse: [0.0, 0.0, 1.0, 1.0]
+                shininess: 40.0
+                type: PhongMaterial
+                ambient: [0.05, 0.05, 0.05, 1.0]
+              mesh: {type: Cylinder}
+              scaling: [0.07, 1.0, 0.07]
+            160:
+              translation: [0.0, -1.0, 0.0]
+              rotation: [0.0, 0.0, 0.0]
+              name: Cylinder
+              children: []
+              type: MeshNode
+              material:
+                specular: [1.0, 1.0, 1.0, 1.0]
+                diffuse: [0.0, 0.0, 1.0, 1.0]
+                shininess: 40.0
+                type: PhongMaterial
+                ambient: [0.05, 0.05, 0.05, 1.0]
+              mesh: {type: Cylinder}
+              scaling: [0.07, 1.0, 0.07]
+            180:
+              translation: [0.0, -1.3, 0.0]
+              rotation: [0.0, 0.0, 0.0]
+              name: Cylinder
+              children: []
+              type: MeshNode
+              material:
+                specular: [1.0, 1.0, 1.0, 1.0]
+                diffuse: [0.0, 0.0, 1.0, 1.0]
+                shininess: 40.0
+                type: PhongMaterial
+                ambient: [0.05, 0.05, 0.05, 1.0]
+              mesh: {type: Cylinder}
+              scaling: [0.07, 1.0, 0.07]
+            120:
+              translation: [0.0, -1.0, 0.0]
+              rotation: [0.0, 0.0, 0.0]
+              name: Cylinder
+              children: []
+              type: MeshNode
+              material:
+                specular: [1.0, 1.0, 1.0, 1.0]
+                diffuse: [0.0, 0.0, 1.0, 1.0]
+                shininess: 40.0
+                type: PhongMaterial
+                ambient: [0.05, 0.05, 0.05, 1.0]
+              mesh: {type: Cylinder}
+              scaling: [0.07, 1.0, 0.07]
+          rotation: [0.0, 0.0, 0.0]
+          name: Cylinder
+          children: []
+          type: MeshNodeKeyframeable
+          material:
+            specular: [1.0, 1.0, 1.0, 1.0]
+            diffuse: [0.0, 0.0, 1.0, 1.0]
+            shininess: 40.0
+            type: PhongMaterial
+            ambient: [0.05, 0.05, 0.05, 1.0]
+          mesh: {type: Cylinder}
+          scaling: [0.07, 1.0, 0.07]
+        type: SceneNodeKeyframeable
+        scaling: [0.01, 0.01, 0.01]
+      type: SceneNodeKeyframeable
+      scaling: [1.0, 1.0, 1.0]
+    type: MeshNodeKeyframeable
+    material:
+      specular: [1.0, 1.0, 1.0, 1.0]
+      diffuse: [0.9, 0.0, 0.0, 1.0]
+      shininess: 40.0
+      type: PhongMaterial
+      ambient: [0.05, 0.05, 0.05, 1.0]
+    mesh: {type: Teapot}
+    scaling: [1.0, 1.0, 1.0]
+  type: SceneNodeKeyframeable
+  scaling: [1.0, 1.0, 1.0]

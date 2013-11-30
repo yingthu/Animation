@@ -1,0 +1,133 @@
+10
+
+dir
+0
+https://forge.cornell.edu/svn/repos/cs4620fall13/fall13/animation/animation_student/src/cs4620/scene
+https://forge.cornell.edu/svn/repos/cs4620fall13
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d3f12a5b-a5e4-0410-a598-d8f9018b879a
+
+SplineNode.java
+file
+
+
+
+add
+
+MeshNode.java
+file
+
+
+
+add
+
+KeyframeAnimation.java
+file
+
+
+
+add
+
+SceneNode.java
+file
+
+
+
+add
+
+SceneKeyframeable.java
+file
+
+
+
+add
+
+MeshNodeKeyframeable.java
+file
+
+
+
+add
+
+SceneNodeKeyframeable.java
+file
+
+
+
+add
+
+LightNode.java
+file
+
+
+
+add
+
+ProgramInfo.java
+file
+
+
+
+add
+
+SceneProgram.java
+file
+
+
+
+add
+
+LightNodeKeyframeable.java
+file
+
+
+
+add
+
+Keyframeable.java
+file
+
+
+
+add
+
+PickingSceneProgram.java
+file
+
+
+
+add
+
+SceneTraverser.java
+file
+
+
+
+add
+
+Scene.java
+file
+
+
+
+add
+

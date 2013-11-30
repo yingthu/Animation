@@ -1,0 +1,148 @@
+frames: {0: 0}
+root:
+  translation: [0.0, 0.0, 0.0]
+  frames:
+    0:
+      translation: [0.0, 0.0, 0.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Root
+      children: []
+      type: SceneNode
+      scaling: [1.0, 1.0, 1.0]
+  rotation: [0.0, 0.0, 0.0]
+  name: Root
+  children:
+  - translation: [5.0, 5.0, 5.0, 1.0]
+    rotation: [0.0, 0.0, 0.0]
+    ambient: [1.0, 1.0, 1.0, 1.0]
+    scaling: [1.0, 1.0, 1.0]
+    frames:
+      0:
+        translation: [5.0, 5.0, 5.0, 1.0]
+        rotation: [0.0, 0.0, 0.0]
+        scaling: [1.0, 1.0, 1.0]
+        ambient: [1.0, 1.0, 1.0, 1.0]
+        name: Light
+        intensity: [1.0, 1.0, 1.0, 1.0]
+        children: []
+        type: LightNode
+        ambient: [1.0, 1.0, 1.0, 1.0]
+    name: Light
+    intensity: [1.0, 1.0, 1.0, 1.0]
+    children: []
+    type: LightNodeKeyframeable
+    ambient: [1.0, 1.0, 1.0, 1.0]
+  - translation: [0.0, 0.5, 0.0]
+    frames:
+      0:
+        translation: [0.0, 0.5, 0.0]
+        rotation: [0.0, 0.0, 0.0]
+        name: Cylinder
+        children: []
+        type: MeshNode
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Cylinder}
+        scaling: [0.2, 0.5, 0.2]
+    rotation: [0.0, 0.0, 0.0]
+    name: Cylinder
+    children: []
+    type: MeshNodeKeyframeable
+    material:
+      specular: [1.0, 1.0, 1.0, 1.0]
+      diffuse: [0.9, 0.0, 0.0, 1.0]
+      shininess: 40.0
+      type: PhongMaterial
+      ambient: [0.05, 0.05, 0.05, 1.0]
+    mesh: {type: Cylinder}
+    scaling: [0.2, 0.5, 0.2]
+  - translation: [0.0, 1.0, 0.0]
+    frames:
+      0:
+        translation: [0.0, 1.0, 0.0]
+        rotation: [0.0, 0.0, 0.0]
+        name: Group
+        children: []
+        type: SceneNode
+        scaling: [1.0, 1.0, 1.0]
+    rotation: [0.0, 0.0, 0.0]
+    name: Group
+    children:
+    - translation: [0.0, 0.5, 0.0]
+      frames:
+        0:
+          translation: [0.0, 0.5, 0.0]
+          rotation: [0.0, 0.0, 0.0]
+          name: Cylinder
+          children: []
+          type: MeshNode
+          material:
+            specular: [1.0, 1.0, 1.0, 1.0]
+            diffuse: [0.9, 0.0, 0.0, 1.0]
+            shininess: 40.0
+            type: PhongMaterial
+            ambient: [0.05, 0.05, 0.05, 1.0]
+          mesh: {type: Cylinder}
+          scaling: [0.2, 0.5, 0.2]
+      rotation: [0.0, 0.0, 0.0]
+      name: Cylinder
+      children: []
+      type: MeshNodeKeyframeable
+      material:
+        specular: [1.0, 1.0, 1.0, 1.0]
+        diffuse: [0.9, 0.0, 0.0, 1.0]
+        shininess: 40.0
+        type: PhongMaterial
+        ambient: [0.05, 0.05, 0.05, 1.0]
+      mesh: {type: Cylinder}
+      scaling: [0.2, 0.5, 0.2]
+    - translation: [0.0, 1.0, 0.0]
+      frames:
+        0:
+          translation: [0.0, 1.0, 0.0]
+          rotation: [0.0, 0.0, 0.0]
+          name: Group
+          children: []
+          type: SceneNode
+          scaling: [1.0, 1.0, 1.0]
+      rotation: [0.0, 0.0, 0.0]
+      name: Group
+      children:
+      - translation: [0.0, 0.5, 0.0]
+        frames:
+          0:
+            translation: [0.0, 0.5, 0.0]
+            rotation: [0.0, 0.0, 0.0]
+            name: Cylinder
+            children: []
+            type: MeshNode
+            material:
+              specular: [1.0, 1.0, 1.0, 1.0]
+              diffuse: [0.9, 0.0, 0.0, 1.0]
+              shininess: 40.0
+              type: PhongMaterial
+              ambient: [0.05, 0.05, 0.05, 1.0]
+            mesh: {type: Cylinder}
+            scaling: [0.2, 0.5, 0.2]
+        rotation: [0.0, 0.0, 0.0]
+        name: Cylinder
+        children: []
+        type: MeshNodeKeyframeable
+        material:
+          specular: [1.0, 1.0, 1.0, 1.0]
+          diffuse: [0.9, 0.0, 0.0, 1.0]
+          shininess: 40.0
+          type: PhongMaterial
+          ambient: [0.05, 0.05, 0.05, 1.0]
+        mesh: {type: Cylinder}
+        scaling: [0.2, 0.5, 0.2]
+      type: SceneNodeKeyframeable
+      scaling: [1.0, 1.0, 1.0]
+    type: SceneNodeKeyframeable
+    scaling: [1.0, 1.0, 1.0]
+  type: SceneNodeKeyframeable
+  scaling: [1.0, 1.0, 1.0]

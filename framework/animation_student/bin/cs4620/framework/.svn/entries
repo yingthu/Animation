@@ -1,0 +1,294 @@
+10
+
+dir
+0
+https://forge.cornell.edu/svn/repos/cs4620fall13/fall13/animation/animation_student/src/cs4620/framework
+https://forge.cornell.edu/svn/repos/cs4620fall13
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d3f12a5b-a5e4-0410-a598-d8f9018b879a
+
+Texture.java
+file
+
+
+
+add
+
+OrthographicCamera.java
+file
+
+
+
+add
+
+VertexShader.java
+file
+
+
+
+add
+
+GLController.java
+file
+
+
+
+add
+
+PerspectiveCameraController.java
+file
+
+
+
+add
+
+VerticalScrollPanel.java
+file
+
+
+
+add
+
+ViewController.java
+file
+
+
+
+add
+
+PickingManager.java
+file
+
+
+
+add
+
+TextureThreeDim.java
+file
+
+
+
+add
+
+TextureTwoDim.java
+file
+
+
+
+add
+
+GLSceneDrawer.java
+file
+
+
+
+add
+
+FragmentShader.java
+file
+
+
+
+add
+
+TextureOneDim.java
+file
+
+
+
+add
+
+CameraController.java
+file
+
+
+
+add
+
+Transforms.java
+file
+
+
+
+add
+
+TextureUnit.java
+file
+
+
+
+add
+
+IndexBuffer.java
+file
+
+
+
+add
+
+ViewsCoordinator.java
+file
+
+
+
+add
+
+PerspectiveCamera.java
+file
+
+
+
+add
+
+MultiViewPanel.java
+file
+
+
+
+add
+
+Shader.java
+file
+
+
+
+add
+
+OrthographicCameraController.java
+file
+
+
+
+add
+
+Program.java
+file
+
+
+
+add
+
+VertexBuffer.java
+file
+
+
+
+add
+
+PickingProgram.java
+file
+
+
+
+add
+
+GLError.java
+file
+
+
+
+add
+
+GLPickingDrawer.java
+file
+
+
+
+add
+
+VertexArray.java
+file
+
+
+
+add
+
+Screenshot.java
+file
+
+
+
+add
+
+Uniform.java
+file
+
+
+
+add
+
+GlslException.java
+file
+
+
+
+add
+
+Texture2DMipmapped.java
+file
+
+
+
+add
+
+Texture2D.java
+file
+
+
+
+add
+
+Texture3D.java
+file
+
+
+
+add
+
+Camera.java
+file
+
+
+
+add
+
+TwoDimColorProgram.java
+file
+
+
+
+add
+
+TwoDimProgram.java
+file
+
+
+
+add
+
+GLView.java
+file
+
+
+
+add
+

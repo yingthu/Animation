@@ -1,0 +1,168 @@
+10
+
+dir
+0
+https://forge.cornell.edu/svn/repos/cs4620fall13/fall13/animation/animation_student/src/cs4620/ui
+https://forge.cornell.edu/svn/repos/cs4620fall13
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d3f12a5b-a5e4-0410-a598-d8f9018b879a
+
+ToleranceSliderPanel.java
+file
+
+
+
+add
+
+AnimationPanel.java
+file
+
+
+
+add
+
+SliderPanel.java
+file
+
+
+
+add
+
+PhongMaterialSettingPanel.java
+file
+
+
+
+add
+
+SceneViewPanel.java
+file
+
+
+
+add
+
+PopupListener.java
+file
+
+
+
+add
+
+SplinePanel.java
+file
+
+
+
+add
+
+SceneDisplayer.java
+file
+
+
+
+add
+
+ToonMaterialSettingPanel.java
+file
+
+
+
+add
+
+MaterialSettingPanel.java
+file
+
+
+
+add
+
+SpeedSettingPanel.java
+file
+
+
+
+add
+
+BasicAction.java
+file
+
+
+
+add
+
+DiffuseMaterialSettingPanel.java
+file
+
+
+
+add
+
+FireMaterialSettingPanel.java
+file
+
+
+
+add
+
+NodeIconCache.java
+file
+
+
+
+add
+
+LightSettingPanel.java
+file
+
+
+
+add
+
+TreeRenderer.java
+file
+
+
+
+add
+
+OneFourViewPanel.java
+file
+
+
+
+add
+
+TransformSettingPanel.java
+file
+
+
+
+add
+
+NameSettingPanel.java
+file
+
+
+
+add
+

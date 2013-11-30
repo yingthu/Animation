@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://forge.cornell.edu/svn/repos/cs4620fall13/fall13/animation/animation_student/src/cs4620/manip
+https://forge.cornell.edu/svn/repos/cs4620fall13
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d3f12a5b-a5e4-0410-a598-d8f9018b879a
+
+TranslateManip.java
+file
+
+
+
+add
+
+RotateManip.java
+file
+
+
+
+add
+
+Manip.java
+file
+
+
+
+add
+
+ManipUtils.java
+file
+
+
+
+add
+
+ScaleManip.java
+file
+
+
+
+add
+
